@@ -20,7 +20,7 @@ Happy Dental Hub is a dental appointment booking application that lets patients 
 [Watch the demo video here](https://drive.google.com/file/d/1zLavCJB-tPROFh30CGe42FsaFyOowskc/view?usp=drive_link)
 
 ## 👥 Team Members
-- Pheobe Grace
+- Phoebe Grace
 - Chagantipati Venkata Nagababu
 - Kurapati Srikanth
 - Guntaka Hema Dhanush Kumar Reddy
